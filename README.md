@@ -1,6 +1,6 @@
 # Beauty and the Beast Project
 
-Site construído sem responsividade, sugere-se olhar no navegador Chrome com zoom em 125%, outros valores e monitores acima de 23" pode apresentar desconfigurações na página.
+Site construído sem responsividade, utilizando navegador Chrome com zoom em 125% e monitor de 23". Outros valores podem apresentar desconfigurações na página.
 
 
 ### Obrigada pela visita!
