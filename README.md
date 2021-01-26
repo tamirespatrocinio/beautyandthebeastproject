@@ -2,7 +2,7 @@
 
 Site construído sem responsividade, utilizando navegador Chrome com zoom em 125% e monitor de 23". Outros valores podem apresentar desconfigurações na página.
 
-## Tecnologias utilizadas:
+## :rocket: Technologies:
 
 - JavaScript
 
